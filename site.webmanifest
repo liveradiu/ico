@@ -1,0 +1,14 @@
+{
+    "name": "راديو لايف",
+    "short_name": "راديو لايف",
+    "icons": [
+        {
+            "src": "https://liveradiu.github.io/ico/chrome-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#3577e5",
+    "background_color": "#fff",
+    "display": "standalone"
+}
