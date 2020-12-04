@@ -3,8 +3,8 @@
     "short_name": "راديو لايف",
     "icons": [
         {
-            "src": "https://cdn.jsdelivr.net/gh/liveradiu/screenhome@main/chrome-250x250.png",
-            "sizes": "250x250",
+            "src": "https://liveradiu.github.io/ico/chrome-96x96.png",
+            "sizes": "96x96",
             "type": "image/png"
         }
     ],
